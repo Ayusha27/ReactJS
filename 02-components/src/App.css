@@ -1,0 +1,12 @@
+.Card {
+  background-color: pink;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.Navbar {
+  background-color: blue;
+  padding: 5px;
+  text: white;
+  border-radius: 5px;
+}

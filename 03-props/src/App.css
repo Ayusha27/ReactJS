@@ -1,0 +1,26 @@
+.card {
+  background-color: pink;
+  padding: 200px;
+  border-radius: 50px;
+  margin: 10px;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-width: 2px;
+  border-style: solid;
+
+}
+
+.profile {
+  border-radius: 50%;
+
+}
+
+.card-container {
+  display: flex;
+  flex-direction: row;  /* side by side */
+  flex-wrap: wrap;      /* wraps to next line if too many cards */
+  gap: 20px;            /* space between cards */
+  padding: 20px;
+}

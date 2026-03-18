@@ -1,0 +1,26 @@
+[
+    {
+       "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+       "offer": "20% off",
+       "product": "Makeup",
+       "description": "Get 20% off on all products in our store. Limited time offer!"
+     },
+    {
+       "image": "https://images.unsplash.com/photo-1580870069867-74c57ee1bb07?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+       "offer": "15% off",
+       "product": "Skincare",
+       "description": "Get 15% off on selected products in our store. Limited time offer!"
+     },
+    {
+       "image": "https://plus.unsplash.com/premium_photo-1739831741133-d064bc094b7e?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+       "offer": "50% off",
+       "product": "Fragrance",
+       "description": "Get 50% off on all fragrance products. Limited time offer!"
+     },
+      {
+       "image": "https://images.unsplash.com/photo-1631729371254-42c2892f0e6e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+       "offer": "50% off",
+       "product": "Hair Care",
+       "description": "Get 50% off on all hair care products. Limited time offer!"
+     }
+]

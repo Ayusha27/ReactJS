@@ -21,4 +21,21 @@ const InputChange = () => {
   )
 }
 
+//instead of onChange we can also use onInput event to get the value of the input field and print it in the console
+//onInput={ (e) => {
+//  buttonChangeClicked(e.target.value);
+//}}
+
+//other events that we can use to get the value of the input field and print it in the console
+//onWheel for Scroll event
+//onMouseMove for Mouse Move event
+//onMouseOver for Mouse Over event
+//onMouseOut for Mouse Out event
+//onMouseEnter for Mouse Enter event
+//onMouseLeave for Mouse Leave event
+//onKeyDown for Key Down event
+//onKeyUp for Key Up event
+//onFocus for Focus event
+//onBlur for Blur event
+
 export default InputChange

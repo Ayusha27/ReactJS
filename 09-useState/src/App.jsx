@@ -2,6 +2,7 @@ import React from 'react'
 import NormalFunctionChangeEx from './components/NormalFunctionChangeEx'
 import UsingUseState from './components/UsingUseState'
 import ReferenceObjectsandArray from './components/ReferenceObjectsandArray'
+import BatchUpdate from './components/BatchUpdate'
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       <NormalFunctionChangeEx />
       <UsingUseState />
       <ReferenceObjectsandArray />
+      <BatchUpdate />
     </div>
   )
 }
